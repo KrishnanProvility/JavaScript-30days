@@ -24,6 +24,7 @@ else if(month==="june"||month==="april"||month==="september"||month==="november"
 switch(guessDay)
 {
 
+   
     case "odd":
         console.log(month+" has 31 Days." );
         break;    
