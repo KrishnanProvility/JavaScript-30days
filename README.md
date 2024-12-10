@@ -6,6 +6,17 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+
+Day 1 => simple exercise like console.log etc....
+
+Day 2 => String inbuilt Methods.
+
+Day 3 => operators ,prompt ,date.
+
+Day 4 => if ,if else if else, switch ,ternary operators.
+
+Day 5 => Array and Array methods -> fill ,concat ,length ,index of ,last indexOf ,toString ,join ,slice ,splice ,push ,pop ,shift ,unshift ,reverse ,sort.
+
 <!---
 KrishnanProvility/KrishnanProvility is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
