@@ -7,7 +7,7 @@
 - ⚡ Fun fact: ...
 
 
-Day 1 => simple exercise like console.log etc....
+Day 1 => simple exercise like console.log etc.... link:https://github.com/KrishnanProvility/JavaScript-30days#:~:text=7%20Commits-,Day1,-Complete%20Day1
 
 Day 2 => String inbuilt Methods.
 
