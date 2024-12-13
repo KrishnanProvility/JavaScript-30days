@@ -6,14 +6,13 @@ const convertedArray =[];
 let count =0;
 function randomHexaNumberGenerator()
 {
-    let script ='';
+    let script =HASH;
 for(let i = 0 ;i<6 ;i++)
 {
     const randomNumber =Math.floor(Math.random()*hexa.length); 
     script=script.concat(hexa[randomNumber]);
     }
-    console.log("these are the hash" +HASH + 'values' + script)
-   return `${HASH}${script}`
+    return script
 }
 let HexaColor = randomHexaNumberGenerator()
 hexaToRgbconvert(HexaColor);
