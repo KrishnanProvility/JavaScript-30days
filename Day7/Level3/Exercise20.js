@@ -11,15 +11,14 @@ const countries = [
     'Japan',
     'Kenya'
   ];
-  const copyCountries =[]
-  function reverseCountries(){
 
-    copyCountries.push(...countries);
+  function reverseCountries(){
+    const CopyCountries =[]
+
+    CopyCountries.push(...countries);
 
     countries.reverse();
   }
 reverseCountries();
-  console.log(`Orginal Array Reversed : ${countries}`);
-  console.log(`copy Array : ${copyCountries}`);
-  
+  console.log(countries);
   
