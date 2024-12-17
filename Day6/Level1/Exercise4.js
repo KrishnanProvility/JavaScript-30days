@@ -1,11 +1,7 @@
-
-
 const hash = "#";
-let  peramide =""
+let peramide = ""
 
-for(let i =0;i<=6;i++)
-{
-peramide+=hash
-console.log(peramide);
+for (let i = 0; i <= 6; i++) {
+    peramide += hash
+    console.log(peramide);
 }
-
