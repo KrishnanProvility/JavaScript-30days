@@ -1,0 +1,21 @@
+{
+  "name": "javascript-30days",
+  "version": "1.0.0",
+  "description": "- 👋 Hi, I’m @KrishnanProvility - 👀 I’m interested in ... - 🌱 I’m currently learning ... - 💞️ I’m looking to collaborate on ... - 📫 How to reach me ... - 😄 Pronouns: ... - ⚡ Fun fact: ...",
+  "main": "countries.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KrishnanProvility/JavaScript-30days.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KrishnanProvility/JavaScript-30days/issues"
+  },
+  "homepage": "https://github.com/KrishnanProvility/JavaScript-30days#readme"
+}
