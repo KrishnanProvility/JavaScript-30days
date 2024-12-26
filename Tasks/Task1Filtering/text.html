@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="./style.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <title>Document</title>
+</head>
+<body >
+  <div class="main-searchbar">
+  <input type="text" placeholder="Search.." id="searchBar">
+ 
+    <select name="" id="search-menu">
+      <option value="none">Filtered-By</option>
+      <option value="gender">Gender</option>
+      <option value="name">Name</option>
+      <option value="city">City</option>
+      <option value="role">Role</option>
+    </select>
+    <button type="button" class="search-button" onclick="addingTable()">Search</button>
+</div>
+
+<div class="main-table">
+  <table class="table">
+    <thead>
+      <tr class="table-head">
+          <th>Name</th>
+          <th>role</th>
+          <th>gender</th>
+          <th>city</th>
+          <th>salary</th>
+      </tr>
+    </thead>
+      <tbody  class="addingRow">
+        <tr>
+          <td colspan="8">No Search Data Available !!!!!!!!</td>
+      </tr>
+      </tbody>
+  </table>
+</div>
+<script src="./script.js"></script>
+</body>
+</html> 
