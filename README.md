@@ -24,6 +24,7 @@ The repository is organized into directories for each day of the challenge:
 ```
 
 
+Day 1 => simple exercise like console.log etc.... [https://github.com/KrishnanProvility/JavaScript-30days/tree/main/Day1]  (Day 1)
 
 ## Completed Days
 
