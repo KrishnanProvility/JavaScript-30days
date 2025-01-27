@@ -1,5 +1,5 @@
 
-  localStorage.clear();
+localStorage.clear();
 const personAccount = {
   firstname: "John",
   lastname: "Doe",
