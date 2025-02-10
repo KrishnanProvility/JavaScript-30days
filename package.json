@@ -17,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/KrishnanProvility/JavaScript-30days/issues"
   },
-  "homepage": "https://github.com/KrishnanProvility/JavaScript-30days#readme"
+  "homepage": "https://github.com/KrishnanProvility/JavaScript-30days#readme",
+  "dependencies": {
+    "jsdom": "^26.0.0"
+  }
 }
