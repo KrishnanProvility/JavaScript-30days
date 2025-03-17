@@ -46,7 +46,7 @@ Here is a list of the projects completed so far:
 - **Day 14**: [Add a brief description of the project]. [View Code](./Day14/)
 - **Day 15**: [Add a brief description of the project]. [View Code](./Day15/)
 
-Day24((solar system))
+Day24((solar system)) websit url https://krishnanprovility.github.io/JavaScript-30days/Day24/
 
 Day25 (population Bar)
 
