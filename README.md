@@ -46,6 +46,8 @@ Here is a list of the projects completed so far:
 - **Day 14**: [Add a brief description of the project]. [View Code](./Day14/)
 - **Day 15**: [Add a brief description of the project]. [View Code](./Day15/)
 
+Day24((solar system))
+
 *Note: Replace the placeholders with actual descriptions for Days 7 through 15.*
 
 1. **Clone the repository**:
