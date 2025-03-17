@@ -11,16 +11,16 @@ function calculateValue() {
     document.querySelector(".empty-result").style.display = "none";
     document.querySelector(".result-container").style.display = "block";
   
-    addImage(selectedPlanet);  // Pass the selected planet to change image dynamically
-    calculateWeight(massValue, selectedPlanet);  // Pass arguments correctly
+    addImage(selectedPlanet); 
+    calculateWeight(massValue, selectedPlanet);  
   }
   
   function addImage(selectedPlanet) {
     let resultDiv = document.querySelector(".result");
-    resultDiv.innerHTML = ""; // Clear previous results
+    resultDiv.innerHTML = ""; 
   
     let imgElement = document.createElement("img");
-    imgElement.src = `./solarplanets/${selectedPlanet}.png`; // Dynamically change image
+    imgElement.src = `./solarplanets/${selectedPlanet}.png`; 
     imgElement.alt = selectedPlanet;
     imgElement.classList.add("planet-image");
   
