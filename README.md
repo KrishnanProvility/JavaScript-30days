@@ -48,6 +48,8 @@ Here is a list of the projects completed so far:
 
 Day24((solar system))
 
+Day25 (population Bar)
+
 *Note: Replace the placeholders with actual descriptions for Days 7 through 15.*
 
 1. **Clone the repository**:
